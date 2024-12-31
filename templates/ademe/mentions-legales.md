@@ -1,5 +1,4 @@
 ---
-test: true
 author: lilian.sagetlethias
 description: Mentions légales pour les startups de l'ADEME
 variables:
