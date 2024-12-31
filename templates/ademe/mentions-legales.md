@@ -1,7 +1,17 @@
 ---
 test: true
+author: lilian.sagetlethias
+description: Mentions légales pour les startups de l'ADEME
+variables:
+    nom_produit: "Nom du produit"
+    nom_editeur: "Nom de l'éditeur"
+    adresse_editeur: "Adresse de l'éditeur"
+    telephone_editeur: "Téléphone de l'éditeur"
+    email_editeur: "Email de l'éditeur"
+    directeur_publication: "Nom du directeur de la publication"
+    nom_hebergeur: "Nom de l'hébergeur"
+    adresse_herbergeur: "Adresse de l'hébergeur"
 ---
-
 # Mentions légales de l'ADEME / {{nom_produit}}
 
 ## Editeur de la Plateforme
