@@ -1,15 +1,32 @@
 ---
+groupId: ademe
+type: mentions-legales
+path: >-
+  /Users/lsagetlethias/source/ADEME/legal-site/templates_tmp/templates/ademe/mentions-legales.md
+githubUrl: >-
+  https://github.com/incubateur-ademe/legal-site-templates-test/blob/8128016/templates/ademe/mentions-legales.md
 author: lilian.sagetlethias
 description: Mentions légales pour les startups de l'ADEME
 variables:
-    nom_produit: "Nom du produit"
-    nom_editeur: "Nom de l'éditeur"
-    adresse_editeur: "Adresse de l'éditeur"
-    telephone_editeur: "Téléphone de l'éditeur"
-    email_editeur: "Email de l'éditeur"
-    directeur_publication: "Nom du directeur de la publication"
-    nom_hebergeur: "Nom de l'hébergeur"
-    adresse_herbergeur: "Adresse de l'hébergeur"
+  nom_produit: Nom du produitaze
+  nom_editeur: Nom de l'éditeur
+  adresse_editeur: Adresse de l'éditeur
+  telephone_editeur: Téléphone de l'éditeur
+  email_editeur: Email de l'éditeur
+  directeur_publication: Nom du directeur de la publication
+  nom_hebergeur: Nom de l'hébergeur
+  adresse_herbergeur: Adresse de l'hébergeur
+sha: '8128016'
+versions:
+  - sha: '8128016'
+    date: 2024-12-31T12:54:30.000Z
+    comment: 'template(ademe-mentions-legales): Clean'
+  - sha: bc72ad3
+    date: 2024-12-31T10:54:56.000Z
+    comment: 'template(ademe-mentions-legales): Mise à jours des metadonnées'
+  - sha: 72c7813
+    date: 2024-12-16T17:15:55.000Z
+    comment: Create mentions-legales.md
 ---
 # Mentions légales de l'ADEME / {{nom_produit}}
 
