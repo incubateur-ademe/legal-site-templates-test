@@ -1,9 +1,9 @@
 ---
 author: lilian.sagetlethias
+lastEditor: laura.dussier
 description: Mentions légales pour les startups de l'ADEME
-lastEditor: martin.regner
 variables:
-  nom_produit: Nom du produitaze
+  nom_produit: Nom du produitazecoucouccava
   nom_editeur: Nom de l'éditeur
   adresse_editeur: Adresse de l'éditeur
   telephone_editeur: Téléphone de l'éditeur
