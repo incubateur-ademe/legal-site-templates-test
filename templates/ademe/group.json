@@ -1,1 +1,8 @@
-{}
+{
+  "name": "ADEME",
+  "description": "Groupe de templates pour l'ADEME",
+  "owners": [
+    "animation/ademe"
+  ],
+  "membershipRules": []
+}
