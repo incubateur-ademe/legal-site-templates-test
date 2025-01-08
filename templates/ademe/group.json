@@ -4,5 +4,10 @@
   "owners": [
     "animation/ademe"
   ],
-  "membershipRules": []
+  "membershipRules": [
+    {
+      "rule": "*",
+      "ttlEnd": "2025-01-16T00:00:00.000Z"
+    }
+  ]
 }
