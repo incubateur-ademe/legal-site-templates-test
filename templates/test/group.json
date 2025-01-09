@@ -1,0 +1,8 @@
+{
+  "name": "TEST",
+  "description": "TEST GROUP",
+  "owners": [
+    "*"
+  ],
+  "membershipRules": []
+}
