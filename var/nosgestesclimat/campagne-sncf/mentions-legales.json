@@ -1,0 +1,17 @@
+{
+    "author": "lilian.sagetlethias",
+    "description": "Mentions légales pour la campagne SNCF de l'application Nos Gestes Climat de l'ADEME",
+    "group": "ademe",
+    "sha": "72c7813",
+    "lastEditor": "lilian.sagetlethias",
+    "variables": {
+        "nom_produit": "SCFC x Nos Gestes Climat",
+        "nom_editeur": "Accélérateur de la Transition Écologique - ADEME",
+        "addresse_editeur": "20 avenue du Grésillé, 49004 Angers Cedex 01",
+        "telephone_editeur": "02 41 20 41 20",
+        "email_editeur": "accelerateurdelatransitionecologique@ademe.fr",
+        "directeur_publication": "Monsieur Sylvain Waserman, en qualité de représentant légal de l’ADEME",
+        "nom_hebergeur": "Scalingo",
+        "addresse_hebergeur": "18 rue de la Ville l’Évêque, 75008 Paris"
+    }
+}
